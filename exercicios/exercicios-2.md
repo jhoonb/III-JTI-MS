@@ -8,7 +8,7 @@ celsius para fahrenheit.
 fahrenheit para celsius.
 
 4) Faça um programa que some todos os números
-deste lista: numeros = [1,2,34,09,78,555,444444,333233,2231,122]
+deste lista: numeros = [1,2,34,9,78,555,444444,333233,2231,122]
 
 5) Receba o valor do produto e o percentual de desconto dele,
 calcule qual o valor do produto com o desconto e mostre na tela.

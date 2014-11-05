@@ -21,7 +21,7 @@ imprima a média aritmética dos números lidos
 
 9) Entre os números 1 e 10000 quantos são multiplos de 7?
 
-9) Entre os números 1 e 10000 quantos são impares excluindo
+10) Entre os números 1 e 10000 quantos são impares excluindo
 os múltiplos de 7 e 3?
 
 
