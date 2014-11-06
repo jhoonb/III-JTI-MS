@@ -4,6 +4,14 @@ III-JTI-MS
 III - JTI MS mini curso de Introdução a Python.
 ==
 
+
+ATENÇÃO: CERTIFICADO!
+=====================
+
+> Pessoal que não pegou o certificado, por favor envie 
+um email para AthosMoreira@ufgd.edu.br com cópia para mim (jpbanczek@gmail.com)
+solicitando o mesmo.
+
 Links:
 =====
 
