@@ -4,6 +4,11 @@ III-JTI-MS
 III - JTI MS mini curso de Introdução a Python.
 ==
 
+Slide da Apresentação:
+==
+
+link: https://speakerdeck.com/jhoonb/introducao-a-python-aprenda-python-domine-o-mundo
+
 
 ATENÇÃO: CERTIFICADO!
 =====================
